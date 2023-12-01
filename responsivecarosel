@@ -1,0 +1,40 @@
+ <Container>
+        <Carousel>
+          <Carousel.Item>
+            <img
+              src="./assets/img_sm_10.jpg "
+              className="testimonials"
+              alt="..."
+            />
+
+            <Carousel.Caption>
+              <h1 className="carouselContent4">
+                Helping Each of Our Students Fulfill the Potential
+              </h1>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              src="./assets/img_sm_5.jpg"
+              className="testimonials"
+              alt="..."
+            />
+            <Carousel.Caption>
+              <h1 className="carouselContent3">Education is life</h1>
+            </Carousel.Caption>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img
+              src="./assets/img_sm_9.jpg"
+              className="testimonials"
+              alt="..."
+            />
+            <Carousel.Caption>
+              <h1 className="carouselContent5">
+                Your Bright Future is Our Mission
+              </h1>
+            </Carousel.Caption>
+          </Carousel.Item>
+        </Carousel>
+      </Container>
